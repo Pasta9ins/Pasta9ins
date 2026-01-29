@@ -8,7 +8,7 @@
 
 - 💻 Links to my projects : **[CogniCare](https://cogni-care-front.vercel.app/), [Ticket-AI](https://ticket-agent-ai.onrender.com/), [Konnect](https://new-chat-app-1-12qr.onrender.com/).**
 
-- 👨‍💻 My resume **[anirudha](https://drive.google.com/file/d/1XBTI9RmPMc4AzofzTwrMBjUcBjkjmvhY/view?usp=drive_link)**
+- 👨‍💻 My resume **[anirudha](https://drive.google.com/file/d/1xGU9zVjdDpnqaABCbyZ1RTXfUKs8XHsA/view?usp=drive_link)**
 
 - 📫 Reach out to me : **anirudhachaudhary33@gmail.com**
 
